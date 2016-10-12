@@ -403,7 +403,7 @@
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Weather.xml</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3e930f6f-ef84-442f-8038-7bc2ca69f5e0}-FanartHandler.Weather.xml</ZipFileName>
-              <DestinationFilename>%Base%\FanartHandler.Weather.xml</DestinationFilename>
+              <DestinationFilename>%Config%\FanartHandler.Weather.xml</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -977,7 +977,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Weather.xml</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3e930f6f-ef84-442f-8038-7bc2ca69f5e0}-FanartHandler.Weather.xml</ZipFileName>
-        <DestinationFilename>%Base%\FanartHandler.Weather.xml</DestinationFilename>
+        <DestinationFilename>%Config%\FanartHandler.Weather.xml</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
