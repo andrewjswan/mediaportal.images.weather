@@ -4,10 +4,10 @@
   <Groups>
     <Items>
       <GroupItem Name="Weather">
-        <ParentGroup>Multi</ParentGroup>
+        <ParentGroup />
         <DisplayName>Weather</DisplayName>
         <DefaulChecked>true</DefaulChecked>
-        <Description>Weather</Description>
+        <Description>Weather multi conditiona backdrops</Description>
         <Files>
           <Items>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
@@ -1550,7 +1550,7 @@
         <ParentGroup />
         <DisplayName>FanartHandler</DisplayName>
         <DefaulChecked>true</DefaulChecked>
-        <Description>FanartHandler Weather</Description>
+        <Description>FanartHandler Weather config file</Description>
         <Files>
           <Items>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
@@ -1559,6 +1559,852 @@
               <LocalFileName>..\..\..\C#\FanartHandler\Installer\config\FanartHandler.Weather.xml</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3e930f6f-ef84-442f-8038-7bc2ca69f5e0}-FanartHandler.Weather.xml</ZipFileName>
               <DestinationFilename>%Config%\FanartHandler.Weather.xml</DestinationFilename>
+            </FileItem>
+          </Items>
+        </Files>
+      </GroupItem>
+      <GroupItem Name="Titan Weather buttons">
+        <ParentGroup />
+        <DisplayName>Weather buttons (Titan)</DisplayName>
+        <DefaulChecked>false</DefaulChecked>
+        <Description>Weather conditions buttons for Titan</Description>
+        <Files>
+          <Items>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\00.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ddf6bbae-672f-4c0c-adb9-89b4ae2615e0}-00.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\0.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\01.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9d334b26-fed7-46cb-b033-bdd2e38f7d81}-01.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\1.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\02.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c192274e-81a0-449d-86af-1f755a838edf}-02.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\03.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5bf2c426-5e16-4925-8fc7-0edf07c1c64d}-03.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\3.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\04.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{17d56758-d7c8-4c7b-bd47-e906f7e770ac}-04.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\4.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\05.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d91895ac-3eca-4374-ab71-20e3af311c80}-05.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\5.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\06.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d956cb9a-e3d1-4aa5-8867-48ee48576767}-06.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\6.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\07.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c5931bf1-543b-4083-8023-9d9064e7fcf7}-07.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\7.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\08.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{18ae6b85-7954-40ff-9aa6-d2a1c944fc02}-08.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\8.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\09.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7a9f1049-44b6-4d5c-8fa8-5a02db5a9952}-09.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\9.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\10.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{09c56a96-957e-4fae-9e70-ca42c938bea8}-10.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\10.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\11.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bccf6840-82af-478d-863f-6a03153df6a0}-11.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\11.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\12.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0ff3356b-1c38-43e5-8b1e-7e20ea688527}-12.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\12.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\13.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{637e21cf-0126-495f-91d7-3cd39fb2843e}-13.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\13.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\14.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d6013510-c64f-493d-970b-d306c034e168}-14.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\14.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\15.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{93e660d4-b765-4926-be8d-1b6ec9618dcb}-15.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\15.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\16.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f8a4890a-6dea-4c3c-bfc8-b07b0c8ddd06}-16.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\16.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\17.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5ffe4c76-8bf1-437f-b393-3158447ca7d9}-17.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\17.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\18.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1adaba79-5442-4bff-b835-78d8d064dafe}-18.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\18.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\19.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c99caddf-a4db-44f7-86bb-2bb801d6fa61}-19.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\19.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\20.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8ba84a20-d499-49d9-b235-cbbd3aad127b}-20.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\20.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\21.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1cbd7cb0-daac-46b9-b448-b5b74cc35fec}-21.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\21.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\22.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e604053c-d9af-45fe-9a45-d5bdd37d80a0}-22.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\22.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\23.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{089e431a-feb1-45ee-af23-427036f28a39}-23.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\23.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\24.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f1ffbb5e-cfe5-4c0b-8892-9c227dfa9777}-24.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\24.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\25.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{268eb1cc-cc91-4671-bb35-3f6450d9e5dd}-25.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\25.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\26.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d09d1086-2c3a-4dda-894d-5bde0e1d39c5}-26.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\26.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\27.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{142ee73f-aee8-4fe5-8857-09404d73b82f}-27.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\27.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\28.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3bc2e521-39e7-4eae-88df-4f831e3dd1a9}-28.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\28.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\29.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{744e4af9-557c-49b3-a293-da5f84769668}-29.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\29.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\30.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{91aa0822-db68-40bb-9efe-04d236778460}-30.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\30.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\31.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8b30e349-777c-44ef-8574-caf01523f473}-31.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\31.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\32.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5db6c882-a211-4c62-a26f-86689bdcf2e9}-32.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\32.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\33.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e12941ca-0481-4bcc-b0e0-d57155176014}-33.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\33.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\34.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{434ff721-9dc9-4bae-8ea9-a3ced68e6672}-34.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\34.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\35.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d9225f19-fe6d-4736-ae2b-e054453ca35c}-35.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\35.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\36.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1eaa4d83-e4e3-4ed3-87fe-58e9ab78d420}-36.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\36.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\37.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d553ea44-640a-4877-b038-c11c68eecc81}-37.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\37.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\38.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cddb6618-6229-4cad-9f13-aa92f33a1b6e}-38.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\38.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\39.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fb2b101b-3118-476e-a900-1f3de7a7bd42}-39.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\39.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\40.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{909fb4f9-d0d6-4637-9f84-fe4e035895b1}-40.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\40.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\41.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4fb9d51f-a470-4fef-8896-eb8fa673496a}-41.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\41.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\42.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7e15a9e1-dd8e-4bf2-a5cb-0c5ad65f61f8}-42.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\42.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\43.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7b3f171c-08e6-44c7-a365-cb7aac878998}-43.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\43.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\44.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{76b92366-b286-4f00-9fb4-8a456172258c}-44.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\44.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\45.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{29cde1f7-3251-402f-9904-73c86965a443}-45.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\45.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\46.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{658f1cc0-84ff-4944-854f-c480a66e9eb8}-46.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\46.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\47.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e0a822ea-b14f-4340-be59-ff219a02d2da}-47.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\47.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\NA.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1c5ea6fe-de7d-49dc-ba5f-3f3e3871fb66}-NA.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\NA.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\00.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{42ed9761-0327-4ace-85db-12c1145529f1}-00.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\00.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\01.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3e4c4f98-53f0-4cff-9dea-9848e19e5551}-01.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\01.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\02.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{02e87afb-1475-49a5-9fe2-4e209815089f}-02.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\02.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\03.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2984ac0e-1fc7-4183-a6b4-334388041896}-03.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\03.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\04.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4dbc7d82-8a8f-4a44-be20-44d6e6ea84c6}-04.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\04.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\05.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7fe42e78-fec1-4d26-a0c7-030af66da7f9}-05.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\05.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\06.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1b7136f5-2171-4465-a3e8-9fea1190dafd}-06.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\06.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\07.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c8e4e36d-d789-4fff-ae50-42701bae87f4}-07.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\07.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\08.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a44f6818-4170-41c9-adf9-90ffff34d725}-08.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\08.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Titan\09.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{74ed4026-2250-44ef-bf3c-bff55d76e55a}-09.png</ZipFileName>
+              <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\09.png</DestinationFilename>
+            </FileItem>
+          </Items>
+        </Files>
+      </GroupItem>
+      <GroupItem Name="Ares Weather buttons">
+        <ParentGroup />
+        <DisplayName>Weather buttons (Ares)</DisplayName>
+        <DefaulChecked>false</DefaulChecked>
+        <Description>Wheather conditions buttons for Ares</Description>
+        <Files>
+          <Items>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\00.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{920c1724-5127-4e8c-bf0d-66080688eb65}-00.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\0.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\01.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{04517c7c-9512-4f91-a16a-65cf9fa7838c}-01.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\1.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\02.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f6abaf5b-d293-4cbb-8c5e-ea4da2cd10ff}-02.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\03.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d5636e11-ccb4-4695-9377-79eb01d443cb}-03.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\3.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\04.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bcd0c2c2-5141-49b6-ac28-9c94b311eb15}-04.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\4.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\05.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{eb2b7f7e-5419-49b0-8db6-87f121872f30}-05.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\5.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\06.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6601e662-99ce-4b56-bff0-078c4de0d07a}-06.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\6.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\07.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d74f22c8-7450-4aec-a450-0dfd4b7afea5}-07.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\7.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\08.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{62f4fd87-b345-4646-8e84-5d2317cf6a4f}-08.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\8.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\09.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{71e78ea1-da72-4569-b3ec-211881d4639b}-09.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\9.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\10.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d0917ec6-e5da-4489-819d-e175bb9419e8}-10.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\10.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\11.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e5e767ea-c80a-40c3-b9a1-f77a0348eb9f}-11.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\11.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\12.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c0da3ce4-ac26-446c-b478-f343ff3c7831}-12.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\12.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\13.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ce680939-b065-4d6a-be07-130ab431dc8f}-13.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\13.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\14.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1f936a41-330d-4583-a31c-44c3a7f182fe}-14.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\14.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\15.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d828e420-5915-49c8-8745-4ddc9bd33bb0}-15.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\15.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\16.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c2917f17-334a-4e50-b564-28bda2a8aebf}-16.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\16.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\17.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6bb3cb2c-6b38-415c-819c-80f2439e77bc}-17.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\17.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\18.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e2ca6a73-40ea-4acb-ab4d-eb4c253b86bc}-18.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\18.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\19.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{534dca43-da77-42da-a934-9efbaa7e26da}-19.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\19.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\20.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ebd40ff7-e833-458f-bb5e-d110f9b12510}-20.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\20.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\21.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c32f253c-ad6c-4ca1-9a11-0a95a19d7e7d}-21.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\21.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\22.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5cd7d45b-304e-4f83-9c2d-e974c2850b7a}-22.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\22.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\23.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{60f7a994-2d37-4717-b72d-fefa33d71cf0}-23.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\23.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\24.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{994735b7-1aeb-41f6-86f2-3a4c168dce18}-24.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\24.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\25.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b58bd0d7-5f4d-4fd3-a7c4-5ef9864d4e0c}-25.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\25.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\26.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8f159806-00e9-4ef0-b34b-a8fa3045462b}-26.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\26.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\27.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d12322f2-0403-4f7c-a6c9-78e8094983e9}-27.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\27.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\28.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f98ff5ec-2d39-417e-a3a2-45111db1ef67}-28.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\28.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\29.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{aed4d9af-7412-472d-9258-fbad562841dc}-29.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\29.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\30.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a9ea777e-c452-4d0b-9bc2-3a50c092d8b7}-30.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\30.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\31.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{dd0ddeca-6e7b-434b-a70b-9586b0e62520}-31.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\31.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\32.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{dca3f550-3191-4421-9609-02c12eb86f42}-32.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\32.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\33.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{af983a2e-6512-4141-ae73-a1379696db6e}-33.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\33.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\34.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{934a3faf-7c6b-421e-ad78-03632e20ed28}-34.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\34.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\35.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{954d7ae9-04b5-40f3-afc5-33ca47bbcb08}-35.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\35.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\36.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8915fb42-24eb-4147-b0ff-4ceb55aed1e2}-36.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\36.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\37.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{666a7b29-61cd-415f-af96-6788e6a1ef32}-37.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\37.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\38.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c7339462-ab10-46cf-b963-1293fd0f7f06}-38.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\38.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\39.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{663e2c22-b5ce-4d96-8bf0-ff3ac47381be}-39.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\39.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\40.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6d0c197c-32d1-4107-abb1-c046e6628d9b}-40.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\40.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\41.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3ba0e18a-b775-4483-9f31-c16de861f33f}-41.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\41.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\42.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{7fb342aa-98e7-4652-883e-cc2c28517ba5}-42.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\42.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\43.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8244d3e6-0ad8-4f9c-9edd-a780bd94879d}-43.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\43.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\44.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1bc544fe-7f89-47ba-afa9-53e9ce499ecc}-44.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\44.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\45.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cce50639-cb41-4d8d-914e-261dba38c0bd}-45.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\45.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\46.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b3892e38-1e93-44d8-8c29-be6eaa071f1b}-46.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\46.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\47.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ee2e60b2-b5c1-4c0a-be0a-bed25033ce48}-47.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\47.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\NA.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{29fc56cd-6cf7-415c-8bc2-cd64393a206c}-NA.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\NA.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\00.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1b3ab85a-1f4f-48d0-babe-9e0eb31751be}-00.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\00.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\01.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{58697d91-a776-4021-914d-e694f3a04fb5}-01.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\01.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\02.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fe259473-19ef-44f9-b47d-a4eff0c275e2}-02.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\02.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\03.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fef39359-b8c4-434e-9568-0cde2e0c273c}-03.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\03.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\04.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e929ad6c-7777-4cc2-87ea-9afc42ab52c5}-04.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\04.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\05.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{de1cb740-274d-428b-a602-37a4cd5dd929}-05.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\05.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\06.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{13dbad2d-7828-4363-a5aa-00c186b4623e}-06.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\06.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\07.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{15a59fe6-822b-450a-bbef-315ad9897f56}-07.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\07.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\08.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{370c1b73-ec8e-4b3c-8969-097a4fe1145e}-08.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\08.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Buttons\Ares\09.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ed224cb0-33d7-484f-bd9f-32fb2301f839}-09.png</ZipFileName>
+              <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\09.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -1600,6 +2446,42 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <IncludedGroups />
         <PanelName>Welcome Screen</PanelName>
         <WizardButtonsEnum>NextCancel</WizardButtonsEnum>
+      </SectionItem>
+      <SectionItem Guid="92b634a1-e8c2-4d80-9a41-85ee8dc8882c" Name="Tree View Selector" ConditionGroup="">
+        <Params>
+          <Items>
+            <SectionParam Name="Header Title">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Header title</Description>
+            </SectionParam>
+            <SectionParam Name="Header description">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Description of section, shown in under section title</Description>
+            </SectionParam>
+            <SectionParam Name="Header image">
+              <Value />
+              <ValueType>File</ValueType>
+              <Description>Image in upper right part</Description>
+            </SectionParam>
+            <SectionParam Name="Description ">
+              <Value />
+              <ValueType>String</ValueType>
+              <Description>Description of this operation</Description>
+            </SectionParam>
+          </Items>
+        </Params>
+        <Actions>
+          <Items />
+        </Actions>
+        <IncludedGroups>
+          <string>Weather</string>
+          <string>Titan Weather buttons</string>
+          <string>Ares Weather buttons</string>
+        </IncludedGroups>
+        <PanelName>Tree View Selector</PanelName>
+        <WizardButtonsEnum>BackNextCancel</WizardButtonsEnum>
       </SectionItem>
       <SectionItem Guid="ead21798-61ed-4afa-8930-dcaa445ae3a8" Name="Install Section" ConditionGroup="">
         <Params>
@@ -1706,14 +2588,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>3</Revision>
+      <Revision>5</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Multi Weather images for Medaportal</ExtensionDescription>
-    <VersionDescription>New HD Images ...
-Add some season weather images ...</VersionDescription>
+    <VersionDescription>Add weather conditions buttons for Titan/Ares</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.weather/master/build/mediaportal.weather.mpe1</OnlineLocation>
-    <ReleaseDate>2016-10-14T13:46:50</ReleaseDate>
+    <ReleaseDate>2017-11-22T13:46:50</ReleaseDate>
     <Tags>mediaportal, weather</Tags>
     <Location>..\build\mediaportal.weather.mpe1</Location>
     <Params>
@@ -3290,11 +4171,697 @@ Add some season weather images ...</VersionDescription>
         <ZipFileName>Installer{CopyFile}\{3e930f6f-ef84-442f-8038-7bc2ca69f5e0}-FanartHandler.Weather.xml</ZipFileName>
         <DestinationFilename>%Config%\FanartHandler.Weather.xml</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\00.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ddf6bbae-672f-4c0c-adb9-89b4ae2615e0}-00.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\0.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\01.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9d334b26-fed7-46cb-b033-bdd2e38f7d81}-01.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\1.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\02.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c192274e-81a0-449d-86af-1f755a838edf}-02.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\03.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5bf2c426-5e16-4925-8fc7-0edf07c1c64d}-03.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\3.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\04.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{17d56758-d7c8-4c7b-bd47-e906f7e770ac}-04.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\4.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\05.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d91895ac-3eca-4374-ab71-20e3af311c80}-05.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\5.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\06.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d956cb9a-e3d1-4aa5-8867-48ee48576767}-06.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\6.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\07.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c5931bf1-543b-4083-8023-9d9064e7fcf7}-07.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\7.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\08.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{18ae6b85-7954-40ff-9aa6-d2a1c944fc02}-08.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\8.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\09.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7a9f1049-44b6-4d5c-8fa8-5a02db5a9952}-09.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\9.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\10.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{09c56a96-957e-4fae-9e70-ca42c938bea8}-10.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\10.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\11.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bccf6840-82af-478d-863f-6a03153df6a0}-11.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\11.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\12.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0ff3356b-1c38-43e5-8b1e-7e20ea688527}-12.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\12.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\13.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{637e21cf-0126-495f-91d7-3cd39fb2843e}-13.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\13.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\14.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d6013510-c64f-493d-970b-d306c034e168}-14.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\14.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\15.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{93e660d4-b765-4926-be8d-1b6ec9618dcb}-15.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\15.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\16.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f8a4890a-6dea-4c3c-bfc8-b07b0c8ddd06}-16.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\16.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\17.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5ffe4c76-8bf1-437f-b393-3158447ca7d9}-17.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\17.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\18.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1adaba79-5442-4bff-b835-78d8d064dafe}-18.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\18.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\19.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c99caddf-a4db-44f7-86bb-2bb801d6fa61}-19.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\19.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\20.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8ba84a20-d499-49d9-b235-cbbd3aad127b}-20.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\20.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\21.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1cbd7cb0-daac-46b9-b448-b5b74cc35fec}-21.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\21.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\22.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e604053c-d9af-45fe-9a45-d5bdd37d80a0}-22.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\22.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\23.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{089e431a-feb1-45ee-af23-427036f28a39}-23.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\23.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\24.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f1ffbb5e-cfe5-4c0b-8892-9c227dfa9777}-24.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\24.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\25.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{268eb1cc-cc91-4671-bb35-3f6450d9e5dd}-25.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\25.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\26.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d09d1086-2c3a-4dda-894d-5bde0e1d39c5}-26.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\26.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\27.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{142ee73f-aee8-4fe5-8857-09404d73b82f}-27.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\27.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\28.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3bc2e521-39e7-4eae-88df-4f831e3dd1a9}-28.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\28.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\29.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{744e4af9-557c-49b3-a293-da5f84769668}-29.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\29.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\30.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{91aa0822-db68-40bb-9efe-04d236778460}-30.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\30.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\31.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8b30e349-777c-44ef-8574-caf01523f473}-31.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\31.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\32.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5db6c882-a211-4c62-a26f-86689bdcf2e9}-32.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\32.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\33.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e12941ca-0481-4bcc-b0e0-d57155176014}-33.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\33.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\34.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{434ff721-9dc9-4bae-8ea9-a3ced68e6672}-34.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\34.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\35.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d9225f19-fe6d-4736-ae2b-e054453ca35c}-35.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\35.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\36.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1eaa4d83-e4e3-4ed3-87fe-58e9ab78d420}-36.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\36.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\37.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d553ea44-640a-4877-b038-c11c68eecc81}-37.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\37.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\38.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cddb6618-6229-4cad-9f13-aa92f33a1b6e}-38.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\38.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\39.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fb2b101b-3118-476e-a900-1f3de7a7bd42}-39.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\39.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\40.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{909fb4f9-d0d6-4637-9f84-fe4e035895b1}-40.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\40.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\41.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4fb9d51f-a470-4fef-8896-eb8fa673496a}-41.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\41.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\42.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7e15a9e1-dd8e-4bf2-a5cb-0c5ad65f61f8}-42.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\42.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\43.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7b3f171c-08e6-44c7-a365-cb7aac878998}-43.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\43.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\44.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{76b92366-b286-4f00-9fb4-8a456172258c}-44.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\44.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\45.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{29cde1f7-3251-402f-9904-73c86965a443}-45.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\45.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\46.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{658f1cc0-84ff-4944-854f-c480a66e9eb8}-46.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\46.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\47.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e0a822ea-b14f-4340-be59-ff219a02d2da}-47.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\47.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Titan\NA.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1c5ea6fe-de7d-49dc-ba5f-3f3e3871fb66}-NA.png</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons\NA.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\00.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{920c1724-5127-4e8c-bf0d-66080688eb65}-00.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\0.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\01.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{04517c7c-9512-4f91-a16a-65cf9fa7838c}-01.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\1.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\02.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f6abaf5b-d293-4cbb-8c5e-ea4da2cd10ff}-02.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\03.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d5636e11-ccb4-4695-9377-79eb01d443cb}-03.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\3.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\04.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bcd0c2c2-5141-49b6-ac28-9c94b311eb15}-04.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\4.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\05.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{eb2b7f7e-5419-49b0-8db6-87f121872f30}-05.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\5.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\06.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6601e662-99ce-4b56-bff0-078c4de0d07a}-06.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\6.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\07.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d74f22c8-7450-4aec-a450-0dfd4b7afea5}-07.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\7.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\08.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{62f4fd87-b345-4646-8e84-5d2317cf6a4f}-08.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\8.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\09.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{71e78ea1-da72-4569-b3ec-211881d4639b}-09.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\9.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\10.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d0917ec6-e5da-4489-819d-e175bb9419e8}-10.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\10.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\11.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e5e767ea-c80a-40c3-b9a1-f77a0348eb9f}-11.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\11.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\12.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c0da3ce4-ac26-446c-b478-f343ff3c7831}-12.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\12.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\13.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ce680939-b065-4d6a-be07-130ab431dc8f}-13.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\13.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\14.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1f936a41-330d-4583-a31c-44c3a7f182fe}-14.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\14.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\15.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d828e420-5915-49c8-8745-4ddc9bd33bb0}-15.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\15.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\16.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c2917f17-334a-4e50-b564-28bda2a8aebf}-16.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\16.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\17.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6bb3cb2c-6b38-415c-819c-80f2439e77bc}-17.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\17.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\18.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e2ca6a73-40ea-4acb-ab4d-eb4c253b86bc}-18.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\18.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\19.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{534dca43-da77-42da-a934-9efbaa7e26da}-19.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\19.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\20.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ebd40ff7-e833-458f-bb5e-d110f9b12510}-20.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\20.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\21.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c32f253c-ad6c-4ca1-9a11-0a95a19d7e7d}-21.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\21.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\22.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5cd7d45b-304e-4f83-9c2d-e974c2850b7a}-22.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\22.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\23.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{60f7a994-2d37-4717-b72d-fefa33d71cf0}-23.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\23.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\24.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{994735b7-1aeb-41f6-86f2-3a4c168dce18}-24.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\24.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\25.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b58bd0d7-5f4d-4fd3-a7c4-5ef9864d4e0c}-25.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\25.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\26.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8f159806-00e9-4ef0-b34b-a8fa3045462b}-26.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\26.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\27.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d12322f2-0403-4f7c-a6c9-78e8094983e9}-27.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\27.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\28.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f98ff5ec-2d39-417e-a3a2-45111db1ef67}-28.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\28.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\29.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{aed4d9af-7412-472d-9258-fbad562841dc}-29.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\29.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\30.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a9ea777e-c452-4d0b-9bc2-3a50c092d8b7}-30.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\30.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\31.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{dd0ddeca-6e7b-434b-a70b-9586b0e62520}-31.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\31.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\32.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{dca3f550-3191-4421-9609-02c12eb86f42}-32.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\32.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\33.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{af983a2e-6512-4141-ae73-a1379696db6e}-33.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\33.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\34.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{934a3faf-7c6b-421e-ad78-03632e20ed28}-34.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\34.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\35.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{954d7ae9-04b5-40f3-afc5-33ca47bbcb08}-35.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\35.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\36.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8915fb42-24eb-4147-b0ff-4ceb55aed1e2}-36.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\36.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\37.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{666a7b29-61cd-415f-af96-6788e6a1ef32}-37.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\37.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\38.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c7339462-ab10-46cf-b963-1293fd0f7f06}-38.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\38.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\39.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{663e2c22-b5ce-4d96-8bf0-ff3ac47381be}-39.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\39.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\40.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6d0c197c-32d1-4107-abb1-c046e6628d9b}-40.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\40.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\41.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3ba0e18a-b775-4483-9f31-c16de861f33f}-41.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\41.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\42.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{7fb342aa-98e7-4652-883e-cc2c28517ba5}-42.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\42.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\43.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8244d3e6-0ad8-4f9c-9edd-a780bd94879d}-43.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\43.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\44.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1bc544fe-7f89-47ba-afa9-53e9ce499ecc}-44.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\44.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\45.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cce50639-cb41-4d8d-914e-261dba38c0bd}-45.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\45.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\46.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b3892e38-1e93-44d8-8c29-be6eaa071f1b}-46.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\46.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\47.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ee2e60b2-b5c1-4c0a-be0a-bed25033ce48}-47.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\47.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Buttons\Ares\NA.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{29fc56cd-6cf7-415c-8bc2-cd64393a206c}-NA.png</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\NA.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ad6e90ef-a160-4479-bd5f-f3191b529e61}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{b6d95de3-f186-4a75-bbbf-418d30e77f54}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
@@ -3309,6 +4876,26 @@ Add some season weather images ...</VersionDescription>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Weather\Backdrops</DestinationFilename>
         <Folder>..\Backdrops\</Folder>
         <Group>Weather</Group>
+        <Recursive>true</Recursive>
+      </FolderGroup>
+      <FolderGroup InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName />
+        <ZipFileName>Installer{CopyFile}\{9a12b336-b453-4588-8980-206041636942}-</ZipFileName>
+        <DestinationFilename>%Skin%\Titan\Media\Weather\Buttons</DestinationFilename>
+        <Folder>..\Buttons\Titan</Folder>
+        <Group>Titan Weather buttons</Group>
+        <Recursive>true</Recursive>
+      </FolderGroup>
+      <FolderGroup InstallType="CopyFile" SystemFile="false" Modified="true">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName />
+        <ZipFileName>Installer{CopyFile}\{f3177ecd-ad11-4ffc-8dbd-e85f9248639f}-</ZipFileName>
+        <DestinationFilename>%Skin%\Ares\Media\Weather\Buttons\</DestinationFilename>
+        <Folder>..\Buttons\Ares</Folder>
+        <Group>Ares Weather buttons</Group>
         <Recursive>true</Recursive>
       </FolderGroup>
     </FolderGroups>
