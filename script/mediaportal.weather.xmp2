@@ -3849,7 +3849,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/andrewjswan/mediaportal.images.weather/releases/download/v[Version]/mediaportal.weather.mpe1</OnlineLocation>
     <ReleaseDate>2024-03-21T23:23:23</ReleaseDate>
-    <Tags>mediaportal, weather</Tags>
+    <Tags>mediaportal, weather, images</Tags>
     <PlatformCompatibility>AnyCPU</PlatformCompatibility>
     <Location>..\build\mediaportal.weather.mpe1</Location>
     <Params>
