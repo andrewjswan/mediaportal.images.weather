@@ -2421,1239 +2421,1239 @@
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\00.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{124c8102-f5da-47aa-b3fe-0a2b38deac96}-00.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\0.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\0.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\01.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9dffd851-fd56-4a65-ac24-9cdf06b7301e}-01.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\1.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\1.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\02.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d834d521-7584-4b9d-82fe-8a64960de6ea}-02.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\2.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\2.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\03.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{8ce002f8-1a04-48a0-bf06-8c1596469e91}-03.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\3.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\3.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\04.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f8a08bb1-5a11-4788-8b07-db118daaf8a9}-04.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\4.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\4.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\05.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ec9ea463-2d6f-424e-b126-a1d484597fb8}-05.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\5.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\5.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\06.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{92cf939e-ed15-4a23-b840-c1b8a5568198}-06.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\6.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\6.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\07.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{444b000e-f8db-4b09-9c06-98fe1abb308c}-07.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\7.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\7.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\08.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{de694bc1-2b63-4c62-bc3b-084800ac6778}-08.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\8.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\8.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\09.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b45c0e99-67d8-478c-8ba0-df84462398cf}-09.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\9.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\9.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\10.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a446ac69-de09-41d1-91aa-1e21ec801be2}-10.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\10.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\10.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\11.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{069cc619-ed80-4395-ab44-828108b2cdc2}-11.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\11.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\11.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\12.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9222f7dd-49f1-4375-912e-c47062086482}-12.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\12.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\12.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\13.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{697616a1-d357-4f98-9c75-5b8c60290c54}-13.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\13.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\13.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\14.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{19f75aab-3c5d-42b6-8dbf-4db705ad0346}-14.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\14.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\14.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\15.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6febdc83-d582-4379-9dd4-e909b64705a6}-15.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\15.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\15.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\16.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e7190831-fa7e-40e3-9b3d-cad307b281d9}-16.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\16.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\16.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\17.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b414cd08-05d3-45d9-80f0-0a2c73888321}-17.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\17.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\17.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\18.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{539102f6-f315-40d3-b91c-e4d3e404de7b}-18.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\18.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\18.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\19.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{79b92a44-cdc1-4f61-b779-32cfd5953426}-19.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\19.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\19.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\20.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{be090b29-28c0-414b-a290-38db49f084d4}-20.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\20.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\20.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\21.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{cd91c45a-a0ff-42f4-b8e8-154f4dd6d9e8}-21.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\21.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\21.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\22.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f5856f74-2b2d-497d-a64c-c93dc3223d3f}-22.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\22.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\22.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\23.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ad0067f4-f811-4473-be7c-9a62a3e45eb0}-23.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\23.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\23.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\24.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3bae9360-063e-4ff3-a0a6-378fdec5463f}-24.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\24.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\24.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\25.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6d89df9b-096b-4df2-bf05-2bd9cb0a523b}-25.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\25.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\25.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\26.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{8c199698-4096-4429-bffb-e59d49c1d0e6}-26.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\26.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\26.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\27.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d4f8dada-bb25-4fe7-a545-b210914a9260}-27.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\27.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\27.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\28.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{64fd857e-2759-4b9c-bd01-ca5a98353096}-28.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\28.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\28.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\29.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{310ae413-2ebc-4148-adc3-492605550769}-29.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\29.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\29.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\30.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ed7bbf3b-5dbd-4093-a862-190c1ce730ff}-30.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\30.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\30.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\31.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{523130b2-64e2-4230-90ba-58d34e012958}-31.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\31.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\31.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\32.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9c019548-c7c1-4cee-b19c-d32ff9e85108}-32.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\32.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\32.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\33.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{36af2116-aa14-4437-9806-79367a547a80}-33.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\33.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\33.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\34.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d8803a2c-77a3-4592-b51f-bfdb2dca0b81}-34.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\34.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\34.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\35.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e7944882-c415-497c-9a9b-308d2c8c9719}-35.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\35.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\35.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\36.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7bcfa35a-496e-4ffb-ba6b-6cdb8a54083c}-36.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\36.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\36.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\37.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a822b468-d0b6-4cd4-b114-814a64fa4a96}-37.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\37.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\37.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\38.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{da71ed36-08b9-4f36-b684-e50a1f0ffffb}-38.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\38.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\38.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\39.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f7a645d2-a079-4bfc-b363-ed54899bf590}-39.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\39.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\39.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\40.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{79a7afee-a670-4c6e-980a-7de00d7eecc5}-40.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\40.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\40.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\41.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{076829c8-c370-47e6-9032-1d8beb3d0518}-41.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\41.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\41.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\42.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b6125878-ab9d-4684-be3d-9401195f702f}-42.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\42.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\42.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\43.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3a6dce62-b05c-43ca-bfa7-793a9d0b7c4a}-43.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\43.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\43.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\44.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{84f8740e-0aa1-41df-8dae-d3d28cdbad7f}-44.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\44.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\44.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\45.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{1996a140-f4b9-4c20-8175-70316de9e5f9}-45.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\45.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\45.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\46.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{db009bf1-c891-46c0-a8ca-430610a47f4a}-46.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\46.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\46.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\47.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{8171d57d-4184-4117-928f-9a89d7e76a15}-47.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\47.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\47.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\NA.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9d9c81fd-4d0c-4e25-a54c-295eec171fe7}-NA.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\NA.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\NA.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\00.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{2b048464-5711-4f12-a2bc-f840fda8a7b4}-00.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\0.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\0.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\01.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{cd353306-5d43-4b10-84db-ea00d92012f7}-01.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\1.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\1.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\02.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ae3d89d1-42be-457a-b3bf-80fd4c4628a7}-02.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\2.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\2.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\03.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{cf4d6efc-69c5-40b2-ba11-14de7b610112}-03.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\3.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\3.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\04.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f3bc3988-24aa-4361-b614-8aff50577449}-04.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\4.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\4.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\05.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{58daa647-8206-4b3f-a6d2-f2efc7a9230f}-05.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\5.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\5.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\06.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3282d03d-3608-4509-9472-b5b46d17fc16}-06.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\6.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\6.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\07.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ff7e7640-12ed-4f2e-bbd4-a26d8d1c70fc}-07.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\7.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\7.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\08.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d986a264-d17c-48a1-b47b-f497c1600c81}-08.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\8.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\8.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\09.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{cbbd1aeb-6b73-4f57-8c34-c6c8541539b2}-09.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\9.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\9.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\10.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{23e4b1a9-8b7c-4149-ae1f-d8952e99ec89}-10.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\10.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\10.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\11.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7eee0a59-cbab-4916-acd4-4144277dbdae}-11.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\11.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\11.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\12.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{651fed5b-5599-47bc-b1a1-ac55589f19c4}-12.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\12.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\12.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\13.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ee40bd72-1a82-49be-8a5f-a358760fbb60}-13.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\13.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\13.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\14.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{88ee54c7-f709-4d02-a547-deb613101b13}-14.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\14.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\14.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\15.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0c761382-883b-4b92-ab9b-03303bff8ed0}-15.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\15.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\15.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\16.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{98f54dca-d33a-447e-9fe1-30c8105484ca}-16.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\16.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\16.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\17.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0823dabd-3aa2-4336-9599-d926618f288f}-17.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\17.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\17.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\18.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{8a887244-0f7e-42fa-9374-d4974b71b08d}-18.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\18.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\18.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\19.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6b538ec3-3a65-4340-aad4-d9d213cda206}-19.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\19.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\19.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\20.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9bc6868d-fd42-4ab8-921f-7d1e39b5ad51}-20.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\20.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\20.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\21.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{1370d3d9-db98-485c-a2c2-0b049e19a320}-21.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\21.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\21.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\22.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7c7ee051-9413-4c3c-a742-07c7d72aeb63}-22.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\22.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\22.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\23.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{898adfcc-c407-4a54-b722-455ddb478633}-23.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\23.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\23.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\24.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3a186844-a315-4ee4-ac68-d52f1dd97202}-24.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\24.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\24.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\25.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{dd53168f-0f6d-46e8-ae51-7e56ce0e8219}-25.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\25.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\25.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\26.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e6eba518-0300-4ebf-9365-1b1f3db3d83e}-26.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\26.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\26.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\27.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d37944c1-b091-4da5-9894-65d7a27b9995}-27.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\27.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\27.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\28.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{176bf15b-dcce-472d-925e-46e73b988f36}-28.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\28.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\28.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\29.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a6cf9b25-d23d-42ed-b3c4-9758abd68bd3}-29.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\29.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\29.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\30.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{83e8419b-6b88-4597-9eaa-3a801feaa4bb}-30.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\30.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\30.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\31.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0cc925d2-3997-4358-a122-96c488aa8bf7}-31.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\31.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\31.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\32.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{4330d436-e734-4cdf-b9ed-63755cf8e8e8}-32.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\32.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\32.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\33.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b25f79a4-99a0-4e7f-96c8-52727fb6b647}-33.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\33.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\33.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\34.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{1f782340-f4eb-40f7-99f4-171b20aa4fa3}-34.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\34.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\34.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\35.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{af93bb2a-9e8a-4116-a65a-032a8099d438}-35.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\35.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\35.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\36.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{65c5df30-18fd-42a6-bebe-6d33b649d30c}-36.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\36.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\36.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\37.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b2e9e456-2459-4bd3-a992-dfe09e2c73dd}-37.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\37.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\37.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\38.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{4e5bc329-80cf-4790-bee5-4b2a9055386a}-38.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\38.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\38.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\39.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3abfa19f-5e2c-4879-b6cf-0672b3ec78eb}-39.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\39.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\39.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\40.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{db43f08b-778d-412a-802b-b5d1071a72ff}-40.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\40.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\40.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\41.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a971d73a-e749-4a92-8199-11b687e52070}-41.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\41.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\41.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\42.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{4875079a-7d96-47c5-a3b3-f3d194ee3de4}-42.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\42.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\42.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\43.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{918d54ea-72ac-4fa2-879f-75a27a85cd41}-43.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\43.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\43.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\44.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{824e4c65-24b8-411f-8512-7cd9a7c507c1}-44.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\44.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\44.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\45.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a8b1e4ed-5517-4448-b819-8f39ae6fbd9d}-45.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\45.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\45.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\46.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7111cba2-8f02-49c3-bcb9-ddd0a9238b7a}-46.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\46.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\46.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\47.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{88b59353-4c6a-44b2-a72f-9e050b46f866}-47.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\47.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\47.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\NA.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7b35832e-d8ca-4222-9ff9-b199e9eb51e4}-NA.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\NA.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\NA.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\00.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{69ea6ec5-f01a-4692-bbfe-19c737bcf76e}-00.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\0.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\0.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\01.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{95563c03-57f3-4136-8969-c82c9140bfd4}-01.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\1.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\1.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\02.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7299e610-85a9-47c9-ad67-c863d3dcb9b0}-02.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\2.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\2.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\03.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0971e5b5-c20f-47f4-8df2-5a4bc631c583}-03.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\3.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\3.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\04.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f2802862-1d74-41c0-8455-62c4b2ff4e62}-04.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\4.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\4.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\05.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d7c38558-12ab-4d76-ba4b-cafe8bc345ac}-05.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\5.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\5.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\06.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{c05ecc69-4a86-4e7c-aa32-1acb041bff6b}-06.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\6.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\6.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\07.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{822ddfd9-0eec-494b-8689-2d1714c66f10}-07.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\7.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\7.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\08.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{924f7694-73b0-4b5b-acfa-d0a51aaf360a}-08.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\8.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\8.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\09.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b6691348-7fa7-4dae-8633-56ac629b9f2b}-09.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\9.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\9.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\10.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{be8a94a7-6cd5-4a7c-ad91-20f2a430e410}-10.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\10.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\10.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\11.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9e1c19eb-0fc3-4f4d-adc0-04322a95bdda}-11.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\11.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\11.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\12.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3093512d-2d99-4cbd-8192-5378808fea59}-12.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\12.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\12.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\13.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a1c24505-02c4-4804-87a9-28a90abd0650}-13.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\13.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\13.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\14.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{253cc870-6eb2-4613-b09b-6de09408a4c3}-14.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\14.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\14.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\15.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{27be0f0e-199a-4d22-8b88-8a304cf393c2}-15.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\15.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\15.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\16.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ad51a81b-adb1-46d3-b94c-1a5e2f5790e2}-16.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\16.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\16.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\17.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6ba77fd4-c62a-4054-85c9-a4b46ca7de2a}-17.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\17.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\17.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\18.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{499ae473-a9e4-4e39-b22b-d4f705d36cdf}-18.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\18.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\18.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\19.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{2851c86d-a484-47d9-bf90-693dc8df4b9d}-19.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\19.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\19.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\20.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{baeaeac1-f2f4-439a-b75f-4d02e2de4ab0}-20.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\20.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\20.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\21.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5ed008fe-79c3-4f43-bea2-bf9c9ddc7e77}-21.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\21.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\21.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\22.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{4a1b7721-5871-4f5b-9e22-29e584bfcf90}-22.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\22.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\22.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\23.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f4c44c6e-15e1-4bd9-999e-0ea9f13a3a21}-23.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\23.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\23.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\24.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5d1419a8-2d6d-4dcb-afd9-6776fd4bf3f6}-24.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\24.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\24.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\25.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d4ed2f89-e16c-477e-a7ac-dc09022b05f8}-25.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\25.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\25.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\26.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{12f7faf7-8e7f-4268-99b2-62ebb3aa10c7}-26.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\26.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\26.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\27.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3237175b-b8ee-40e2-a893-73e86d9f421e}-27.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\27.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\27.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\28.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{4a46f644-dc97-40a9-b7dd-5ac1219ae3ca}-28.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\28.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\28.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\29.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5d9eb385-0ae9-4f53-aa13-e3200aee20f1}-29.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\29.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\29.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\30.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{74c5c06d-ae63-4733-baae-a725777be3e9}-30.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\30.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\30.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\31.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3fe6cd7a-7f13-4e16-8956-936819ec6871}-31.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\31.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\31.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\32.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{bb0393d3-4b62-4741-ad94-4a3fe753637c}-32.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\32.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\32.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\33.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f04fb32c-2a2f-44a0-b38d-1cb3a32d1e70}-33.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\33.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\33.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\34.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{884eeead-9224-428e-a5c4-d75bfb6f9c1e}-34.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\34.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\34.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\35.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{dda2eb32-e3eb-4c9d-a45f-c6b48b889fce}-35.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\35.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\35.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\36.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{66f076b2-1c77-4cb3-900e-68d2c5d0f9c6}-36.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\36.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\36.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\37.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3ccb79df-a4d8-4250-9d72-4a1ef7cc6653}-37.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\37.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\37.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\38.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{11fefd7e-5e65-4939-955a-6474c586e60f}-38.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\38.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\38.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\39.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9a1b06d7-c0b7-4b50-9b75-096d2156b108}-39.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\39.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\39.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\40.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{73c69536-93ef-422f-8962-9aeac3de3a80}-40.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\40.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\40.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\41.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{c9790c9b-2f62-4017-8aaa-1c530922474f}-41.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\41.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\41.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\42.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{b7f15577-d567-4771-8278-a0c7c25dbec0}-42.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\42.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\42.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\43.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{ea3be517-00d2-4c32-83c4-e7dad10328bc}-43.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\43.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\43.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\44.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3ffe98f8-4d55-4928-9241-e0a637739ac1}-44.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\44.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\44.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\45.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{660891c5-204d-494f-aa3b-d1944ea3f2bd}-45.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\45.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\45.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\46.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{a76f3e87-015a-4390-b359-2d7ab6d52c85}-46.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\46.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\46.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\47.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{2116d348-93ab-4493-9a48-06d256f21150}-47.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\47.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\47.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\NA.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{13d92c4c-72cd-49c0-a72e-28de0de8dfc8}-NA.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\NA.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\NA.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\00.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3b0aa7e8-3d43-4453-9d55-35452fa30d8b}-00.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\00.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\00.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\01.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6fd42e0e-5dc1-4b0d-bd5f-7cb6bc3d5bf2}-01.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\01.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\01.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\02.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{24cbe7d8-ba0b-4c33-b21e-9f213e08e3fc}-02.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\02.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\02.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\03.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f438523b-f2e1-46dc-8b1a-c4d6a0795d99}-03.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\03.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\03.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\04.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f2945e3d-15c5-4e31-8599-a63432cc3c8d}-04.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\04.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\04.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\05.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{2cf84141-0203-4c09-ba19-79f704863402}-05.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\05.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\05.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\06.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{fb695e4a-c38c-403c-90f8-d865999b7035}-06.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\06.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\06.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\07.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{078fbfff-d1cb-4306-b28d-3b301a0f4794}-07.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\07.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\07.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\08.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{d7f5000c-3a51-4352-8d21-e53dc88506f0}-08.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\08.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\08.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\big\09.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7ce5af7a-5380-4182-b56a-dc96503dfe1c}-09.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\09.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\09.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\00.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{67cbea4d-14c7-424a-a367-842a08bc3f22}-00.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\00.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\00.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\01.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f5ac2211-0ce9-475e-b50d-59e386484afa}-01.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\01.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\01.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\02.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{00762174-99c7-4ba2-a452-ff37b37784d6}-02.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\02.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\02.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\03.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e0ce5698-9c62-4c84-9fe7-0038ff7f8788}-03.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\03.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\03.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\04.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6ad9d527-5854-4130-9239-36d9cbffe150}-04.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\04.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\04.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\05.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{47ff811c-5453-4f2c-9efd-efd7fbf1a422}-05.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\05.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\05.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\06.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{c115a111-6bcc-42e2-ba9c-53eadb3be81b}-06.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\06.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\06.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\07.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0499e19a-666e-48e6-a3fd-9a24add776ba}-07.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\07.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\07.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\08.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{15bfa29a-2e0c-4743-ac72-e48f9f5995a2}-08.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\08.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\08.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\middle\09.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{68666a26-45d5-4708-ab3f-18e8f4041c62}-09.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\09.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\09.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\00.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{1e94e344-afd4-4251-becd-38b5805c8a15}-00.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\00.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\00.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\01.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7465d7a5-ff2b-4042-8ce5-e5b64de2a331}-01.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\01.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\01.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\02.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{029b624b-3c8e-4d36-ae5b-86285ba3107d}-02.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\02.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\02.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\03.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7f94f4e9-e002-445e-8cf9-fcc9c8f89442}-03.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\03.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\03.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\04.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5e23e89e-46b1-4a7b-b57f-0d72718fcf5e}-04.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\04.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\04.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\05.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0513c3b9-7344-4ff9-b8cc-ceeb9c665920}-05.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\05.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\05.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\06.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{889d618a-dccf-4d49-a9e7-755f3c920abf}-06.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\06.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\06.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\07.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e33d1208-bbc0-430f-bc7c-075131032a30}-07.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\07.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\07.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\08.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{194b6900-1e37-496b-9eca-a1e4e3b7aeb2}-08.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\08.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\08.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Buttons\MePo\small\09.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5bc66702-edd2-43f9-955f-eae4c33c7eac}-09.png</ZipFileName>
-              <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\09.png</DestinationFilename>
+              <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\09.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -3839,7 +3839,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>7</Revision>
+      <Revision>9</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Multi Weather images for Medaportal</ExtensionDescription>
     <VersionDescription>Add weather conditions buttons:
@@ -3848,7 +3848,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
 - MePo (Titan Theme)</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/andrewjswan/mediaportal.images.weather/releases/download/v[Version]/mediaportal.weather.mpe1</OnlineLocation>
-    <ReleaseDate>2024-03-21T23:23:23</ReleaseDate>
+    <ReleaseDate>2024-05-16T23:23:23</ReleaseDate>
     <Tags>mediaportal, weather, images</Tags>
     <PlatformCompatibility>AnyCPU</PlatformCompatibility>
     <Location>..\build\mediaportal.weather.mpe1</Location>
@@ -6117,1029 +6117,1029 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\00.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{124c8102-f5da-47aa-b3fe-0a2b38deac96}-00.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\0.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\0.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\01.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9dffd851-fd56-4a65-ac24-9cdf06b7301e}-01.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\1.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\1.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\02.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d834d521-7584-4b9d-82fe-8a64960de6ea}-02.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\2.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\2.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\03.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{8ce002f8-1a04-48a0-bf06-8c1596469e91}-03.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\3.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\3.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\04.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f8a08bb1-5a11-4788-8b07-db118daaf8a9}-04.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\4.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\4.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\05.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ec9ea463-2d6f-424e-b126-a1d484597fb8}-05.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\5.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\5.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\06.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{92cf939e-ed15-4a23-b840-c1b8a5568198}-06.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\6.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\6.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\07.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{444b000e-f8db-4b09-9c06-98fe1abb308c}-07.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\7.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\7.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\08.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{de694bc1-2b63-4c62-bc3b-084800ac6778}-08.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\8.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\8.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\09.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b45c0e99-67d8-478c-8ba0-df84462398cf}-09.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\9.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\9.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\10.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a446ac69-de09-41d1-91aa-1e21ec801be2}-10.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\10.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\10.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\11.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{069cc619-ed80-4395-ab44-828108b2cdc2}-11.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\11.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\11.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\12.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9222f7dd-49f1-4375-912e-c47062086482}-12.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\12.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\12.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\13.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{697616a1-d357-4f98-9c75-5b8c60290c54}-13.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\13.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\13.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\14.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{19f75aab-3c5d-42b6-8dbf-4db705ad0346}-14.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\14.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\14.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\15.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{6febdc83-d582-4379-9dd4-e909b64705a6}-15.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\15.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\15.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\16.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e7190831-fa7e-40e3-9b3d-cad307b281d9}-16.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\16.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\16.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\17.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b414cd08-05d3-45d9-80f0-0a2c73888321}-17.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\17.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\17.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\18.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{539102f6-f315-40d3-b91c-e4d3e404de7b}-18.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\18.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\18.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\19.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79b92a44-cdc1-4f61-b779-32cfd5953426}-19.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\19.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\19.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\20.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{be090b29-28c0-414b-a290-38db49f084d4}-20.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\20.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\20.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\21.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{cd91c45a-a0ff-42f4-b8e8-154f4dd6d9e8}-21.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\21.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\21.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\22.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f5856f74-2b2d-497d-a64c-c93dc3223d3f}-22.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\22.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\22.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\23.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ad0067f4-f811-4473-be7c-9a62a3e45eb0}-23.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\23.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\23.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\24.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3bae9360-063e-4ff3-a0a6-378fdec5463f}-24.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\24.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\24.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\25.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{6d89df9b-096b-4df2-bf05-2bd9cb0a523b}-25.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\25.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\25.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\26.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{8c199698-4096-4429-bffb-e59d49c1d0e6}-26.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\26.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\26.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\27.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d4f8dada-bb25-4fe7-a545-b210914a9260}-27.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\27.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\27.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\28.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{64fd857e-2759-4b9c-bd01-ca5a98353096}-28.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\28.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\28.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\29.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{310ae413-2ebc-4148-adc3-492605550769}-29.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\29.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\29.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\30.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ed7bbf3b-5dbd-4093-a862-190c1ce730ff}-30.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\30.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\30.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\31.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{523130b2-64e2-4230-90ba-58d34e012958}-31.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\31.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\31.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\32.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9c019548-c7c1-4cee-b19c-d32ff9e85108}-32.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\32.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\32.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\33.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{36af2116-aa14-4437-9806-79367a547a80}-33.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\33.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\33.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\34.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d8803a2c-77a3-4592-b51f-bfdb2dca0b81}-34.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\34.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\34.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\35.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e7944882-c415-497c-9a9b-308d2c8c9719}-35.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\35.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\35.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\36.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7bcfa35a-496e-4ffb-ba6b-6cdb8a54083c}-36.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\36.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\36.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\37.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a822b468-d0b6-4cd4-b114-814a64fa4a96}-37.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\37.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\37.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\38.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{da71ed36-08b9-4f36-b684-e50a1f0ffffb}-38.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\38.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\38.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\39.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f7a645d2-a079-4bfc-b363-ed54899bf590}-39.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\39.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\39.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\40.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79a7afee-a670-4c6e-980a-7de00d7eecc5}-40.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\40.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\40.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\41.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{076829c8-c370-47e6-9032-1d8beb3d0518}-41.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\41.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\41.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\42.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b6125878-ab9d-4684-be3d-9401195f702f}-42.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\42.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\42.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\43.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3a6dce62-b05c-43ca-bfa7-793a9d0b7c4a}-43.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\43.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\43.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\44.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{84f8740e-0aa1-41df-8dae-d3d28cdbad7f}-44.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\44.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\44.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\45.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{1996a140-f4b9-4c20-8175-70316de9e5f9}-45.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\45.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\45.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\46.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{db009bf1-c891-46c0-a8ca-430610a47f4a}-46.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\46.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\46.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\47.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{8171d57d-4184-4117-928f-9a89d7e76a15}-47.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\47.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\47.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\big\NA.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9d9c81fd-4d0c-4e25-a54c-295eec171fe7}-NA.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\big\NA.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\big\NA.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\00.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{2b048464-5711-4f12-a2bc-f840fda8a7b4}-00.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\0.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\0.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\01.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{cd353306-5d43-4b10-84db-ea00d92012f7}-01.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\1.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\1.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\02.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ae3d89d1-42be-457a-b3bf-80fd4c4628a7}-02.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\2.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\2.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\03.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{cf4d6efc-69c5-40b2-ba11-14de7b610112}-03.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\3.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\3.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\04.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f3bc3988-24aa-4361-b614-8aff50577449}-04.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\4.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\4.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\05.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{58daa647-8206-4b3f-a6d2-f2efc7a9230f}-05.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\5.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\5.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\06.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3282d03d-3608-4509-9472-b5b46d17fc16}-06.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\6.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\6.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\07.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ff7e7640-12ed-4f2e-bbd4-a26d8d1c70fc}-07.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\7.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\7.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\08.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d986a264-d17c-48a1-b47b-f497c1600c81}-08.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\8.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\8.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\09.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{cbbd1aeb-6b73-4f57-8c34-c6c8541539b2}-09.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\9.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\9.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\10.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{23e4b1a9-8b7c-4149-ae1f-d8952e99ec89}-10.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\10.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\10.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\11.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7eee0a59-cbab-4916-acd4-4144277dbdae}-11.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\11.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\11.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\12.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{651fed5b-5599-47bc-b1a1-ac55589f19c4}-12.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\12.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\12.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\13.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ee40bd72-1a82-49be-8a5f-a358760fbb60}-13.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\13.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\13.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\14.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{88ee54c7-f709-4d02-a547-deb613101b13}-14.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\14.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\14.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\15.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0c761382-883b-4b92-ab9b-03303bff8ed0}-15.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\15.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\15.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\16.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{98f54dca-d33a-447e-9fe1-30c8105484ca}-16.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\16.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\16.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\17.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0823dabd-3aa2-4336-9599-d926618f288f}-17.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\17.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\17.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\18.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{8a887244-0f7e-42fa-9374-d4974b71b08d}-18.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\18.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\18.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\19.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{6b538ec3-3a65-4340-aad4-d9d213cda206}-19.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\19.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\19.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\20.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9bc6868d-fd42-4ab8-921f-7d1e39b5ad51}-20.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\20.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\20.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\21.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{1370d3d9-db98-485c-a2c2-0b049e19a320}-21.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\21.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\21.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\22.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7c7ee051-9413-4c3c-a742-07c7d72aeb63}-22.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\22.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\22.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\23.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{898adfcc-c407-4a54-b722-455ddb478633}-23.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\23.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\23.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\24.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3a186844-a315-4ee4-ac68-d52f1dd97202}-24.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\24.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\24.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\25.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{dd53168f-0f6d-46e8-ae51-7e56ce0e8219}-25.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\25.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\25.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\26.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e6eba518-0300-4ebf-9365-1b1f3db3d83e}-26.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\26.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\26.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\27.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d37944c1-b091-4da5-9894-65d7a27b9995}-27.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\27.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\27.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\28.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{176bf15b-dcce-472d-925e-46e73b988f36}-28.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\28.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\28.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\29.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a6cf9b25-d23d-42ed-b3c4-9758abd68bd3}-29.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\29.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\29.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\30.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{83e8419b-6b88-4597-9eaa-3a801feaa4bb}-30.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\30.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\30.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\31.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0cc925d2-3997-4358-a122-96c488aa8bf7}-31.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\31.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\31.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\32.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{4330d436-e734-4cdf-b9ed-63755cf8e8e8}-32.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\32.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\32.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\33.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b25f79a4-99a0-4e7f-96c8-52727fb6b647}-33.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\33.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\33.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\34.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{1f782340-f4eb-40f7-99f4-171b20aa4fa3}-34.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\34.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\34.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\35.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{af93bb2a-9e8a-4116-a65a-032a8099d438}-35.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\35.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\35.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\36.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{65c5df30-18fd-42a6-bebe-6d33b649d30c}-36.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\36.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\36.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\37.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b2e9e456-2459-4bd3-a992-dfe09e2c73dd}-37.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\37.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\37.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\38.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{4e5bc329-80cf-4790-bee5-4b2a9055386a}-38.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\38.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\38.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\39.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3abfa19f-5e2c-4879-b6cf-0672b3ec78eb}-39.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\39.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\39.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\40.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{db43f08b-778d-412a-802b-b5d1071a72ff}-40.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\40.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\40.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\41.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a971d73a-e749-4a92-8199-11b687e52070}-41.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\41.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\41.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\42.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{4875079a-7d96-47c5-a3b3-f3d194ee3de4}-42.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\42.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\42.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\43.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{918d54ea-72ac-4fa2-879f-75a27a85cd41}-43.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\43.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\43.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\44.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{824e4c65-24b8-411f-8512-7cd9a7c507c1}-44.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\44.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\44.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\45.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a8b1e4ed-5517-4448-b819-8f39ae6fbd9d}-45.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\45.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\45.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\46.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7111cba2-8f02-49c3-bcb9-ddd0a9238b7a}-46.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\46.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\46.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\47.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{88b59353-4c6a-44b2-a72f-9e050b46f866}-47.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\47.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\47.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\middle\NA.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7b35832e-d8ca-4222-9ff9-b199e9eb51e4}-NA.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\middle\NA.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\middle\NA.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\00.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{69ea6ec5-f01a-4692-bbfe-19c737bcf76e}-00.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\0.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\0.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\01.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{95563c03-57f3-4136-8969-c82c9140bfd4}-01.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\1.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\1.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\02.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7299e610-85a9-47c9-ad67-c863d3dcb9b0}-02.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\2.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\2.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\03.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0971e5b5-c20f-47f4-8df2-5a4bc631c583}-03.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\3.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\3.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\04.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f2802862-1d74-41c0-8455-62c4b2ff4e62}-04.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\4.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\4.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\05.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d7c38558-12ab-4d76-ba4b-cafe8bc345ac}-05.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\5.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\5.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\06.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{c05ecc69-4a86-4e7c-aa32-1acb041bff6b}-06.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\6.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\6.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\07.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{822ddfd9-0eec-494b-8689-2d1714c66f10}-07.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\7.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\7.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\08.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{924f7694-73b0-4b5b-acfa-d0a51aaf360a}-08.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\8.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\8.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\09.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b6691348-7fa7-4dae-8633-56ac629b9f2b}-09.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\9.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\9.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\10.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{be8a94a7-6cd5-4a7c-ad91-20f2a430e410}-10.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\10.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\10.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\11.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9e1c19eb-0fc3-4f4d-adc0-04322a95bdda}-11.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\11.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\11.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\12.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3093512d-2d99-4cbd-8192-5378808fea59}-12.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\12.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\12.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\13.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a1c24505-02c4-4804-87a9-28a90abd0650}-13.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\13.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\13.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\14.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{253cc870-6eb2-4613-b09b-6de09408a4c3}-14.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\14.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\14.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\15.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{27be0f0e-199a-4d22-8b88-8a304cf393c2}-15.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\15.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\15.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\16.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ad51a81b-adb1-46d3-b94c-1a5e2f5790e2}-16.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\16.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\16.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\17.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{6ba77fd4-c62a-4054-85c9-a4b46ca7de2a}-17.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\17.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\17.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\18.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{499ae473-a9e4-4e39-b22b-d4f705d36cdf}-18.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\18.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\18.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\19.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{2851c86d-a484-47d9-bf90-693dc8df4b9d}-19.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\19.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\19.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\20.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{baeaeac1-f2f4-439a-b75f-4d02e2de4ab0}-20.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\20.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\20.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\21.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{5ed008fe-79c3-4f43-bea2-bf9c9ddc7e77}-21.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\21.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\21.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\22.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{4a1b7721-5871-4f5b-9e22-29e584bfcf90}-22.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\22.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\22.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\23.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f4c44c6e-15e1-4bd9-999e-0ea9f13a3a21}-23.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\23.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\23.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\24.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{5d1419a8-2d6d-4dcb-afd9-6776fd4bf3f6}-24.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\24.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\24.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\25.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{d4ed2f89-e16c-477e-a7ac-dc09022b05f8}-25.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\25.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\25.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\26.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{12f7faf7-8e7f-4268-99b2-62ebb3aa10c7}-26.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\26.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\26.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\27.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3237175b-b8ee-40e2-a893-73e86d9f421e}-27.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\27.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\27.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\28.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{4a46f644-dc97-40a9-b7dd-5ac1219ae3ca}-28.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\28.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\28.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\29.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{5d9eb385-0ae9-4f53-aa13-e3200aee20f1}-29.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\29.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\29.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\30.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{74c5c06d-ae63-4733-baae-a725777be3e9}-30.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\30.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\30.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\31.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3fe6cd7a-7f13-4e16-8956-936819ec6871}-31.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\31.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\31.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\32.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{bb0393d3-4b62-4741-ad94-4a3fe753637c}-32.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\32.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\32.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\33.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f04fb32c-2a2f-44a0-b38d-1cb3a32d1e70}-33.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\33.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\33.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\34.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{884eeead-9224-428e-a5c4-d75bfb6f9c1e}-34.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\34.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\34.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\35.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{dda2eb32-e3eb-4c9d-a45f-c6b48b889fce}-35.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\35.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\35.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\36.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{66f076b2-1c77-4cb3-900e-68d2c5d0f9c6}-36.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\36.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\36.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\37.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3ccb79df-a4d8-4250-9d72-4a1ef7cc6653}-37.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\37.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\37.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\38.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{11fefd7e-5e65-4939-955a-6474c586e60f}-38.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\38.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\38.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\39.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9a1b06d7-c0b7-4b50-9b75-096d2156b108}-39.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\39.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\39.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\40.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{73c69536-93ef-422f-8962-9aeac3de3a80}-40.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\40.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\40.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\41.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{c9790c9b-2f62-4017-8aaa-1c530922474f}-41.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\41.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\41.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\42.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{b7f15577-d567-4771-8278-a0c7c25dbec0}-42.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\42.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\42.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\43.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{ea3be517-00d2-4c32-83c4-e7dad10328bc}-43.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\43.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\43.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\44.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3ffe98f8-4d55-4928-9241-e0a637739ac1}-44.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\44.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\44.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\45.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{660891c5-204d-494f-aa3b-d1944ea3f2bd}-45.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\45.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\45.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\46.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{a76f3e87-015a-4390-b359-2d7ab6d52c85}-46.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\46.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\46.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\47.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{2116d348-93ab-4493-9a48-06d256f21150}-47.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\47.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\47.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Buttons\MePo\small\NA.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{13d92c4c-72cd-49c0-a72e-28de0de8dfc8}-NA.png</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons\small\NA.png</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons\small\NA.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true" Condition="None">
         <Param1 />
@@ -7187,7 +7187,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName />
         <ZipFileName>Installer{CopyFile}\{c3d25653-7679-4354-86ce-b30912c21f06}-</ZipFileName>
-        <DestinationFilename>%Skin%\TitanThemes\MePo\Media\Weather\Buttons</DestinationFilename>
+        <DestinationFilename>%Skin%\Titan\Themes\MePo\Media\Weather\Buttons</DestinationFilename>
         <Folder>..\Buttons\MePo</Folder>
         <Group>MePo Weather buttons</Group>
         <Recursive>true</Recursive>
