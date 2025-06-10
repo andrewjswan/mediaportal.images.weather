@@ -20,7 +20,7 @@ on:
 jobs:
   build:
     name: Weather / Build
-    runs-on: windows-2019
+    runs-on: windows-2022
     outputs:
       version: ${{ steps.version.outputs.version }}
     steps:
