@@ -25,16 +25,16 @@ jobs:
       version: ${{ steps.version.outputs.version }}
     steps:
       - name: Git Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Git Checkout / MPE / XPath / Tools
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: andrewjswan/MPE
           path: MPE
 
       - name: Git Checkout / FanartHandler
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: yoavain/mediaportal-fanart-handler
           sparse-checkout: |
@@ -117,7 +117,7 @@ jobs:
       contents: write
     steps:
       - name: Git Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
