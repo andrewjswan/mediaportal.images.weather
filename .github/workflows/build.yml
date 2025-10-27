@@ -65,7 +65,7 @@ jobs:
         shell: cmd
  
       - name: Upload Artifact / MPE1
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: Weather - MPE1
           path: |
@@ -73,7 +73,7 @@ jobs:
           if-no-files-found: error
 
       - name: Upload Artifact / MPE XML
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: Weather - XML
           path: |
@@ -100,7 +100,7 @@ jobs:
         shell: cmd
 
       - name: Upload Artifact / Version Description
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: Weather - Version Description
           path: |
