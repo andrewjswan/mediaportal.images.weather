@@ -134,7 +134,7 @@ jobs:
           add: '${{ github.workspace }}/script/mediaportal.weather.xml'
 
       - name: Delete XML Artifact
-        uses: geekyeggo/delete-artifact@v5
+        uses: geekyeggo/delete-artifact@v6
         with:
             name: Weather - XML
             failOnError: false
@@ -174,13 +174,13 @@ jobs:
             release-files/*.mpe1
 
       - name: Delete MPE1 Artifact
-        uses: geekyeggo/delete-artifact@v5
+        uses: geekyeggo/delete-artifact@v6
         with:
           name: Weather - MPE1
           failOnError: false
 
       - name: Delete Version Description Artifact
-        uses: geekyeggo/delete-artifact@v5
+        uses: geekyeggo/delete-artifact@v6
         with:
           name: Weather - Version Description
           failOnError: false
