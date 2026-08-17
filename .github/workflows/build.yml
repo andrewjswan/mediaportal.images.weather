@@ -128,7 +128,7 @@ jobs:
           path: ${{ github.workspace }}/script/
 
       - name: Update / MPE1 XML
-        uses: EndBug/add-and-commit@v10
+        uses: EndBug/add-and-commit@v11
         with:
           message: 'Weather ${{needs.build.outputs.version}} / Release'
           add: '${{ github.workspace }}/script/mediaportal.weather.xml'
